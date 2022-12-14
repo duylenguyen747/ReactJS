@@ -20,7 +20,7 @@ class Specialty extends Component {
         };
 
         return (
-            <div className='section-specialty'>
+            <div className=' section-share'>
                 <div className='section-container'>
                     <div className='section-header'>
                         <span className='title-section' >Chuyên khoa phổ biến</span>

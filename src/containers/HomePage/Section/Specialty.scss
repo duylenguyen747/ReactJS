@@ -2,12 +2,12 @@
     height: 330px;
     background: #f5f5f5;    
 
-    .section-container{
+    .specialty-container{
         margin: 0 100px;
         display: flex;
         flex-direction: column;
 
-        .section-header{
+        .specialty-header{
             height: 60px;
             margin-bottom: 30px;
             padding-top: 30px;
@@ -34,9 +34,9 @@
                 }
             }
         }
-        .section-body{
+        .specialty-body{
 
-            .section-customize{ 
+            .specialty-customize{ 
                 .bg-image{
                     width: 278px;
                     height: 150px;
